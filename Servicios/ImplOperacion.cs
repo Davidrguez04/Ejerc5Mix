@@ -28,6 +28,7 @@ namespace Ejerc5Mix.Servicios
             }
             else if (mes == 2)
             {
+                //If para saber si el año es bisiesto o no y poner los dias correspondientes con el mes y el año
                 if(anyo % 4 == 0 && anyo % 100 != 0 || anyo % 400 == 0){
                     Console.WriteLine("\nEste mes tiene 29 días");
                 }
