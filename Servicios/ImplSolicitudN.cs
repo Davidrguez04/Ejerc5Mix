@@ -21,7 +21,7 @@ namespace Ejerc5Mix.Servicios
         public int solicitudMesAnyo(int k)
         {
             int numero;
-            char respuesta;
+           
 
             
 
